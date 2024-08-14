@@ -9,7 +9,8 @@ Recap :
 *Props
 *Mapping Data
 
-(https://github.com/user-attachments/assets/aa0b8ae5-f9c6-451f-9d56-f4080e84b03d)
+![final](https://github.com/user-attachments/assets/48bc4074-db2c-428e-b35f-75088e8dd1f6)
+
 
 
 
