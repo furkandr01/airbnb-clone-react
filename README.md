@@ -6,7 +6,10 @@ npm run build # or watch to rebuild on change
 open index.html
 ```
 Recap :
-# Props
-# Mapping Data
+*Props
+*Mapping Data
 
-![Alt text](images/final.png)
+![Uploading final.png…]()
+
+
+
