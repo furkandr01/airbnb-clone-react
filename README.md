@@ -9,7 +9,8 @@ Recap :
 *Props
 *Mapping Data
 
-![Uploading final.png…]()
+![final](https://github.com/user-attachments/assets/aa0b8ae5-f9c6-451f-9d56-f4080e84b03d)![Uploading final.png…]()
+
 
 
 
